@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "661628866be8d9edc796ede3",
+    "Email": "harshdvadhavana26@gmail.com",
+    "Password": "a",
+    "Broker": true,
+    "BrokerCount": 3,
+    "Verification": true,
+    "BrokerData": [
+      {
+        "AngelId": "H54303926",
+        "AngelPass": "6969",
+        "SecretKey": "V4LKTGHGDDI75CKQXIBFO2HWJI",
+        "JwtToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6Ikg1NDMwMzkyNiIsInJvbGVzIjowLCJ1c2VydHlwZSI6IlVTRVIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6VXhNaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp6ZFdJaU9pSklOVFF6TURNNU1qWWlMQ0psZUhBaU9qRTNNVEk1TWpZMU5ERXNJbWxoZENJNk1UY3hNamd6TlRNeU1Dd2lhblJwSWpvaVptTmtNR1l5T1dVdE5qY3hPUzAwT0RZMkxXSXpPVGN0WlRKbE5qZzVOR1UyTkdJMElpd2liMjF1WlcxaGJtRm5aWEpwWkNJNk5pd2ljMjkxY21ObGFXUWlPaUl6SWl3aWRYTmxjbDkwZVhCbElqb2lZMnhwWlc1MElpd2lkRzlyWlc1ZmRIbHdaU0k2SW5SeVlXUmxYMkZqWTJWemMxOTBiMnRsYmlJc0ltZHRYMmxrSWpvMkxDSnpiM1Z5WTJVaU9pSXpJaXdpWkdWMmFXTmxYMmxrSWpvaVptRTVPV05pTVdJdFpqZGxOUzB6WmpBd0xXRXlNall0TXprM05UbGhNVFpoTVRGaklpd2lZV04wSWpwN2ZYMC5sR3FuNmtaZmlhbjFacURUQ3d0bG1UNklHVWFCUUI5UVdfRE1Cb3VTT2hXOW8ydEwzUUVHcTJMTmdUVUg1SmdxQ0paNllnMUhMZDJzUzl4OHBLUzRZUSIsIkFQSS1LRVkiOiJ4TDlUeUFPOCIsImlhdCI6MTcxMjgzNTM4MCwiZXhwIjoxNzEyOTI2NTQxfQ.I0BR3CjQ6aAkt7KKO2czHfEDGupUYAgWvq2WDU7YmD2F-QIBxI2cOqI3A5krpD8otha-RXkFMhDv2WqOMxb1mQ",
+        "_id": "6617cb31bd46eb26c2604d62"
+      },
+      {
+        "AngelId": "A1501341",
+        "AngelPass": "2308",
+        "SecretKey": "I6DWYH727T55JZEQVBJ3MRXC6E",
+        "JwtToken": "eyJhbGciOiJIUzUxMiJ9.eyJ1c2VybmFtZSI6IkExNTAxMzQxIiwicm9sZXMiOjAsInVzZXJ0eXBlIjoiVVNFUiIsInRva2VuIjoiZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnpkV0lpT2lKQk1UVXdNVE0wTVNJc0ltVjRjQ0k2TVRjeE16WXpNalUxT1N3aWFXRjBJam94TnpFek5UTTBOVEEzTENKcWRHa2lPaUprTWpVNVlqVmxNQzA1WVdNMExUUmxZVFl0WVdJMVpDMWlZVGt4WldKa05UY3hNVFFpTENKdmJXNWxiV0Z1WVdkbGNtbGtJam94TURJc0luTnZkWEpqWldsa0lqb2lNeUlzSW5WelpYSmZkSGx3WlNJNkltTnNhV1Z1ZENJc0luUnZhMlZ1WDNSNWNHVWlPaUowY21Ga1pWOWhZMk5sYzNOZmRHOXJaVzRpTENKbmJWOXBaQ0k2TVRBeUxDSnpiM1Z5WTJVaU9pSXpJaXdpWkdWMmFXTmxYMmxrSWpvaVptRTVPV05pTVdJdFpqZGxOUzB6WmpBd0xXRXlNall0TXprM05UbGhNVFpoTVRGaklpd2lZV04wSWpwN2ZYMC5iQ3FPT1VKT2xIVk5rQU1kNU1zNkdhYUMyY01fY1pzMGVDUGJpcGZ1SkhkSmtETGExSmw0cFlhMWdrNjV5Y3A1NEJuLVJobjFoejhNc2RhV0g1d1d2USIsIkFQSS1LRVkiOiJ4TDlUeUFPOCIsImlhdCI6MTcxMzUzNDU2NywiZXhwIjoxNzEzNjMyNTU5fQ.uWFJWUByFdM51ibY2eMg3jeS2ZUykpLCym3U08JM2605um1PHE6sX2sFt-vCUaFKhEPcaai3tmMcTESYNAgUVg",
+        "_id": "66227664fbde319d41f93801"
+      }
+    ],
+    "__v": 2
+  },
+  {
+    "_id": "662149ff176cf0177c8512ac",
+    "Email": "ayush.santoki120104@marwadiuniversity.ac.in",
+    "Password": "q",
+    "Broker": false,
+    "Verification": true,
+    "BrokerCount": 0,
+    "BrokerData": []
+  },
+  {
+    "_id": "66215900fef8463c4ef52765",
+    "Email": "harshwebdev26@gmail.com",
+    "Password": "a",
+    "Broker": false,
+    "Verification": false,
+    "BrokerCount": 0,
+    "BrokerData": []
+  },
+  {
+    "_id": "66227664fbde319d41f93804",
+    "BrokerData": [],
+    "__v": 0
+  },
+  {
+    "_id": "66229ce57de5e25e85408a0f",
+    "Email": "ssass@a.a",
+    "Password": "q",
+    "Broker": false,
+    "Verification": true,
+    "BrokerCount": 0,
+    "BrokerData": []
+  },
+  {
+    "_id": "662389719dac4a2537d1571a",
+    "Email": "a@a.a",
+    "Password": "q",
+    "Broker": false,
+    "Verification": true,
+    "BrokerCount": 0,
+    "BrokerData": []
+  },
+  {
+    "_id": "6623b89ec40d4c1fd72ffd75",
+    "BrokerData": [],
+    "__v": 0
+  },
+  {
+    "_id": "6623dc85ffe0e13f2af9fb3f",
+    "Email": "ay@a.a",
+    "Password": "q",
+    "Broker": false,
+    "Verification": true,
+    "BrokerCount": 0,
+    "BrokerData": []
+  }
+]
+
