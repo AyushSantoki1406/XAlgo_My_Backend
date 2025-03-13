@@ -70,6 +70,10 @@ const { Server } = require("socket.io");
 const port = process.env.port || 5000;
 const server = http.createServer(app);
 
+app.get("/", (req, res) => {
+  res.send("Welcome to Xalgo Backend! 🚀");
+});
+
 mongoose
   .connect(`${config.MongoUrl}`)
   .then(() => {
@@ -78,7 +82,6 @@ mongoose
   .catch((e) => {
     console.log("Error is " + e);
   });
-
 const corsOptions = {
   origin: "*",
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
@@ -178,7 +181,7 @@ io.on("connection", (socket) => {
       socket.emit("mobileLoginResponse", {
         success: false,
         message: "Invalid login credentials",
-      }); 
+      });
     }
   });
 
