@@ -115,9 +115,11 @@ app.use((req, res, next) => {
   next();
 });
 
-const io = require("socket.io")(5001, {
-  // Use port 4000 instead of 6000
-  cors: { origin: "*" },
+const io = new Server(server, {
+  cors: {
+    origin: "*", // Adjust based on frontend
+    methods: ["GET", "POST"],
+  },
 });
 
 const pendingLogins = new Map();
