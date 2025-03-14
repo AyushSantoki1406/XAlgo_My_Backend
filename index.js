@@ -128,7 +128,7 @@ const users = {}; // Store logged-in users temporarily
 io.on("connection", (socket) => {
   console.log("New client connected:", socket.id);
 
-  socket.on("connect", () => {
+  socket.on("test", () => {
     console.log("yayyyyyyyyyyyyyyyyy  ");
   });
   // Generate a QR code token
