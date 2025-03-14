@@ -115,11 +115,12 @@ app.use((req, res, next) => {
   next();
 });
 
-const io = new Server(server, {
+const io = require("socket.io")(server, {
   cors: {
-    origin: "*", // Adjust based on frontend
+    origin: "*", // Allow all origins (for testing)
     methods: ["GET", "POST"],
   },
+  transports: ["websocket"], // Ensure WebSocket transport is enabled
 });
 
 const pendingLogins = new Map();
